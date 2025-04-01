@@ -1,1 +1,1 @@
-# mycli
+# vvs-cli
